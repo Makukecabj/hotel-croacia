@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hotel-croacia.vercel.app/sitemap.xml
